@@ -1,0 +1,6 @@
+{
+	"name": "ramen",
+	"version": "0.0.1",
+	"description": "A 2D graphics library wrapped around SDL3",
+	"homepage": "https://github.com/ohkannaduh/ramen"
+}
